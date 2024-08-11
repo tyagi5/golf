@@ -44,18 +44,19 @@ h1{
     font-family: "Anton SC", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 7.5vw;
+    font-size: 50px;
     margin-left: 5vw;
     margin-top: 20vw;
     margin-bottom: 0pt;
   }
+
 
 h2{
     color: #005C78;
     font-family: "Ga Maamli", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 40px;
+    font-size: 35px;
     margin: 0pt;
     
 }
@@ -65,7 +66,7 @@ h3{
     font-family: "Anton SC", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 4vw;
+    font-size: 30px;
     margin-bottom: 0px;
     margin-top: 1vw;
     margin-left: 5vw;
@@ -83,7 +84,7 @@ h4{
 }
 
 hr{
-    margin:20vw auto;
+    margin:10vw auto;
     border: dotted #E88D67;
     border-bottom: none;
     width: 4%;
